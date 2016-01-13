@@ -41,6 +41,7 @@
             ;; OutOfMemoryException. Set the value according to your
             ;; available RAM.
             :dex-opts ["-JXmx4096M" "--incremental"]
+            :sdk-path "/home/jakub/Programs/android-sdk-linux"
 
             :target-version "23"
             :aot-exclude-ns ["clojure.parallel" "clojure.core.reducers"
