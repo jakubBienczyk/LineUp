@@ -38,13 +38,12 @@ public class SplashActivity extends Activity {
         setContentView(R.layout.gamescreen);
 
         Button col1 = (Button)findViewById(R.id.col1);
-
         Button col2 = (Button)findViewById(R.id.col2);
         Button col3 = (Button)findViewById(R.id.col3);
         Button col4 = (Button)findViewById(R.id.col4);
         Button col5 = (Button)findViewById(R.id.col5);
         Button col6 = (Button)findViewById(R.id.col6);
-        Button col7 = (Button)findViewById(R.id.col7);
+        Button col0 = (Button)findViewById(R.id.col0);
         ImageView col0row0 = (ImageView)findViewById(R.id.col0row0);
         ImageView col0row1 = (ImageView)findViewById(R.id.col0row1);
         ImageView col0row2 = (ImageView)findViewById(R.id.col0row2);

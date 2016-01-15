@@ -8,49 +8,49 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="1"
-            android:id="@+id/col1" android:layout_row="0" android:layout_column="0"
+            android:id="@+id/col0" android:layout_row="0" android:layout_column="0"
             android:layout_columnSpan="1"
             android:layout_rowSpan="1"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="2"
-            android:id="@+id/col2" android:layout_row="0" android:layout_column="1"
+            android:id="@+id/col1" android:layout_row="0" android:layout_column="1"
             android:layout_columnSpan="1"
             android:layout_rowSpan="1"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="3"
-            android:id="@+id/col3" android:layout_row="0" android:layout_column="2"
+            android:id="@+id/col2" android:layout_row="0" android:layout_column="2"
             android:layout_columnSpan="1"
             android:layout_rowSpan="1"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="4"
-            android:id="@+id/col4" android:layout_row="0" android:layout_column="3"
+            android:id="@+id/col3" android:layout_row="0" android:layout_column="3"
             android:layout_columnSpan="1"
             android:layout_rowSpan="1"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="5"
-            android:id="@+id/col5" android:layout_row="0" android:layout_column="4"
+            android:id="@+id/col4" android:layout_row="0" android:layout_column="4"
             android:layout_columnSpan="1"
             android:layout_rowSpan="1"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="6"
-            android:id="@+id/col6" android:layout_row="0" android:layout_column="5"
+            android:id="@+id/col5" android:layout_row="0" android:layout_column="5"
             android:layout_columnSpan="1"
             android:layout_rowSpan="1"/>
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="7"
-            android:id="@+id/col7" android:layout_row="0" android:layout_column="6"
+            android:id="@+id/col6" android:layout_row="0" android:layout_column="6"
             android:layout_columnSpan="1"
             android:layout_rowSpan="1"/>
     <ImageView
