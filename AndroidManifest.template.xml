@@ -18,7 +18,8 @@
         <category android:name="android.intent.category.LAUNCHER"/>
       </intent-filter>
     </activity>
-    <activity android:name=".MyActivity">
+    <activity android:name=".MyActivity"
+              android:screenOrientation="landscape">
       <intent-filter>
         <action android:name='pl.jakub.lineup.MAIN'/>
         <category android:name='android.intent.category.DEFAULT'/>

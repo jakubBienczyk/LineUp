@@ -2,7 +2,7 @@
 <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:columnCount="7" android:rowCount="9" android:orientation="vertical" android:background="#38fff9">
+            android:columnCount="7" android:rowCount="9" android:orientation="horizontal" android:background="#38fff9">
 
     <Button
             android:layout_width="wrap_content"
