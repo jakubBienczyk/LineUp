@@ -2,6 +2,7 @@
 /classes
 /gen
 /checkouts
+/.idea
 pom.xml
 pom.xml.asc
 *.jar
